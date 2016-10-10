@@ -2,9 +2,9 @@
 
 Landing Page for Sniffer GP under http://sniffergps.com
 
-## Creator
+## Theme and template by
 
-Agency Theme and Start Bootstrap was created by and is maintained by **[David Miller](http://davidmiller.io/)**, Owner of [Blackrock Digital](http://blackrockdigital.io/).
+Agency Template and Start Bootstrap was created by and is maintained by **[David Miller](http://davidmiller.io/)**, Owner of [Blackrock Digital](http://blackrockdigital.io/).
 
 * https://twitter.com/davidmillerskt
 * https://github.com/davidtmiller
