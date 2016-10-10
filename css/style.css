@@ -1,0 +1,169 @@
+.navbar-custom .navbar-brand {
+  color: #FFFFFF;
+  font-family: 'Roboto Condensed', sans-serif;
+  font-weight: bold;
+}
+.navbar-custom .navbar-brand:hover,
+.navbar-custom .navbar-brand:focus,
+.navbar-custom .navbar-brand:active,
+.navbar-custom .navbar-brand.active {
+  color: #0392FF;
+}
+
+header .intro-text {
+  padding-top: 150px;
+  padding-bottom: 20px;
+  text-align:center;
+}
+
+header .intro-text .intro-lead-in {
+  font-family: "Droid Serif", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-style: italic;
+  font-size: 40px;
+  line-height: 40px;
+  margin-bottom: 25px;
+}
+header .intro-text .intro-heading {
+  font-family: "Droid Serif", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-style: italic;
+  font-weight: 700;
+  font-size: 26px;
+  line-height: 26px;
+  margin-bottom: 25px;
+}
+
+header .form {
+    width: 40%;
+    border-radius: 5px;
+    color: black;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+}
+
+@media (min-width: 768px) {
+  header .intro-text {
+    padding-top: 140px;
+    padding-bottom: 190px;
+  }
+
+  header .intro-text .intro-lead-in {
+    font-family: "Droid Serif", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-style: italic;
+    font-size: 62px;
+    line-height: 62px;
+    margin-bottom: 25px;
+  }
+  header .intro-text .intro-heading {
+    font-family: "Droid Serif", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 40px;
+    margin-bottom: 50px;
+    }
+}
+
+.info {
+    font-size: 18px;
+    justify-content: center;
+    vertical-align: middle;
+}
+
+.info2 {
+    font-size: 15px;
+    justify-content: center;
+    vertical-align: middle;
+}
+
+.portfolio-item {
+    padding-top: 20px;
+    vertical-align: middle;
+}
+
+.feature-box:hover,
+.feature-box:focus {
+  background-color: #CACBCC;
+  border-radius: 10px;
+}
+
+.contact-us {
+    padding-bottom: 50px;
+}
+
+.contact-box {
+    border-radius: 10px;
+    background-color: rgba(202, 203, 204, 0.2);
+    color: #FFFFFF;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 25px;
+}
+
+.btn-lg {
+  color: white;
+  background-color: #0392FF;
+  border-color: #0392FF;
+  font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  text-transform: uppercase;
+  font-weight: 700;
+  border-radius: 3px;
+  font-size: 14px;
+  padding: 16px 32px;
+}
+.btn-lg:hover,
+.btn-lg:focus,
+.btn-lg:active,
+.btn-lg.active,
+.open .dropdown-toggle.btn-lg {
+  color: white;
+  background-color: #0392FF;
+  border-color: #f6bf01;
+}
+.btn-lg:active,
+.btn-lg.active,
+.open .dropdown-toggle.btn-lg {
+  background-image: none;
+}
+.btn-lg.disabled,
+.btn-lg[disabled],
+fieldset[disabled] .btn-lg,
+.btn-lg.disabled:hover,
+.btn-lg[disabled]:hover,
+fieldset[disabled] .btn-lg:hover,
+.btn-lg.disabled:focus,
+.btn-lg[disabled]:focus,
+fieldset[disabled] .btn-lg:focus,
+.btn-lg.disabled:active,
+.btn-lg[disabled]:active,
+fieldset[disabled] .btn-lg:active,
+.btn-lg.disabled.active,
+.btn-lg[disabled].active,
+fieldset[disabled] .btn-lg.active {
+  background-color: #0392FF;
+  border-color: #0392FF;
+}
+.btn-lg .badge {
+  color: #0392FF;
+  background-color: white;
+}
+
+
+header {
+ margin: 0;
+ padding: 0;
+ background-attachment: fixed;
+ background-size: cover;
+ color: #FFFFFF;
+}
+
+
+#video-background {
+ position: fixed;
+ right: 0;
+ bottom: 0;
+ min-width: 100%;
+ min-height: 100%;
+ width: auto;
+ height: auto;
+ z-index: -100;
+}
